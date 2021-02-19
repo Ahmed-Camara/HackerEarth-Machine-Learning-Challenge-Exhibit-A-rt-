@@ -1,1 +1,1 @@
-# HackerEarth-Machine-Learning-Challenge-Exhibit-A-rt-
+<img src="exhibit.PNG" />
